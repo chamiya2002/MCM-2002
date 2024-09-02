@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm chamith madusanka</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamiya2002&label=Profile%20views&color=0e75b6&style=flat" alt="MCM-2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MCM-2002&label=Profile%20views&color=0e75b6&style=flat" alt="MCM-2002" /> </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
